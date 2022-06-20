@@ -1,4 +1,11 @@
-
+.navbar-expand-lg .navbar-collapse {
+    display: flex!important;
+    flex-basis: auto;
+    justify-content: flex-end;
+}
+.card{
+    display: flex;
+}
 /* 
 
     You can write your own styles here...
